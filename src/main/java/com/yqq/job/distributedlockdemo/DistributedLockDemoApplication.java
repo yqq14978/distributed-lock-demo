@@ -5,10 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
 * @Author yeqq
-* @Description 
+* @Description 测试
 * @Date 14:58 2019/11/29
-* @Param 
-* @return 
 **/
 @SpringBootApplication
 public class DistributedLockDemoApplication {
